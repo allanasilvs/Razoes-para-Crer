@@ -3,3 +3,18 @@ Este é um guia para tirar principais dúvidas entre o Catolicismo e Protestanti
 
 # Na prática
 Faça perguntas ao Gemini Notebook e ele responderá de acordo com as fontes incluídas. Lembrando que a fonte é baseada na Bíblia e no Catecismo da Igreja Católica, assim como biblistas e professores que compartilham conhecimentos e evangelizam através de seus estudos feitos e experiências de vida durante a caminhada católica.
+
+
+Como exemplo, você poderá digitar o seguinte comando:
+```
+Olá, Gemini.
+
+Gostaria de tirar as seguintes dúvidas sobre a fé católica:
+1. Católicos adoram imagens?
+2. Católicos adoram Maria?
+3. Por que a bíblia católica tem livros mais livros do que na bíblia protestante?
+4. Existe um purgatório como a igreja Católica afirma que tem?
+5. O que seria a intercessão dos santos?
+```
+
+Bons estudos e boa pesquisa! 
